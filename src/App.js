@@ -31,7 +31,7 @@ function App() {
   // const expenseDate= new Date(2021, 10, 19);
   return (
 expenses.map((value,key) => {
-  return <ExpenseItem key={key} expenseDate={value.date.toISOString()} expenseTitle={value.title} expenseAmount={value.amount}/>
+  return <ExpenseItem key={key} expenseDate={value.date} expenseTitle={value.title} expenseAmount={value.amount}/>
 })      
     // <ExpenseItem expenseDate={expenseDate.toISOString()} expenseTitle='Play Sex Game' expenseAmount={2000}/>,
     // <ExpenseItem expenseDate={expenseDate.toISOString()} expenseTitle='fuct your Ass hole' expenseAmount={4000}/>
