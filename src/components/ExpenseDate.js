@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/ExpenseItem.css'
+import '../styles/ExpenseDate.css'
 export default function ExpenseDate(props) {
     const month = props.date.toLocaleString('en-US',{month:'long'});
 const year= props.date.getFullYear();
