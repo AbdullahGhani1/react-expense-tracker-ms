@@ -13,3 +13,21 @@
 [0m2021.10.24 00:40:50 WARN  Build server is not auto-connectable.[0m
 [0m2021.10.24 00:40:50 WARN  no build tool detected in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2021.10.24 06:02:02 INFO  shutting down Metals[0m
+[0m2021.11.04 18:45:02 INFO  Started: Metals version 0.10.9 in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.04 18:45:05 INFO  time: initialize in 3.08s[0m
+[0m2021.11.04 18:45:06 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.04 18:45:06 WARN  no build tool detected in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.05 01:12:16 INFO  Started: Metals version 0.10.9 in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker' for client Visual Studio Code 1.61.2.[0m
+[0m2021.11.05 01:12:21 INFO  time: initialize in 5.79s[0m
+[0m2021.11.05 01:12:27 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.05 01:12:27 WARN  no build tool detected in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.05 01:55:39 INFO  shutting down Metals[0m
+[0m2021.11.05 03:29:25 INFO  Started: Metals version 0.10.9 in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker' for client Visual Studio Code 1.62.0.[0m
+[0m2021.11.05 03:29:31 INFO  time: initialize in 6.6s[0m
+[0m2021.11.05 03:29:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.05 03:29:36 WARN  no build tool detected in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.05 22:05:13 INFO  Started: Metals version 0.10.9 in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker' for client Visual Studio Code 1.62.0.[0m
+[0m2021.11.05 22:05:18 INFO  time: initialize in 5.39s[0m
+[0m2021.11.05 22:05:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.05 22:05:23 WARN  no build tool detected in workspace 'D:\0. Video Lecture\1. Practice\React\1_MW\react-ms-expense-tracker'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.11.05 23:09:55 INFO  shutting down Metals[0m
